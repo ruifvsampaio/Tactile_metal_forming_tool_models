@@ -29,5 +29,4 @@ While not representative of industrial practice, the container in the forward ex
 The color scheme utilized in the paper was structural components as gray, passive components as blue, and active components as orange. Therefore, the folder names follow this scheme.
 
 ## Assembly notes
-M3 socket head bolts and threaded heat set inserts were utilized to assemble the different parts of the tools. Guide pillars are recommended to be lightly sanded for better sliding in the top bosters; the assembly of the pillars into the bottom bolsters is force-fit so it stays fixed.
-Additionally, the modular single-stage vertical tool makes use of cylindrical magnets measuring 5 mm in diameter and 2 mm in thickness for quick demonstration purposes.
+The modular single-stage vertical tool makes use of cylindrical magnets measuring 5 mm in diameter and 2 mm in thickness for quick demonstration purposes.
