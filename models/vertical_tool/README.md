@@ -23,7 +23,7 @@ While not representative of industrial practice, the container in the forward ex
 | 11 | Floating container | `V_active_components_orange/container.step` | Active | 2 |
 | 12 | Floating punch | `V_active_components_orange/punch.step` | Active | 2 |
 
-**Total number of printed parts:** 19
+**Total number of printed parts:** 20
 
 ## Printing notes
 The color scheme utilized in the paper was structural components as gray, passive components as blue, and active components as orange. Therefore, the folder names follow this scheme.
