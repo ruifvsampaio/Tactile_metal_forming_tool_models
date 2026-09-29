@@ -21,7 +21,7 @@ The models are physical, hands-on representations of industrial forming tools. T
 
 ### (a) Modular single-stage vertical tool
 
-`models/vertical_tool/`
+[`models/vertical_tool/`](models/vertical_tool/)
 
 The modular single-stage vertical tool demonstrates the fundamental components of metal forming tools and the potential for flexibility in the construction of both structural and passive elements, such as support plates. 
 For demonstration purposes, the tool is assembled using cylindrical magnets measuring 5 mm in diameter and 2 mm in thickness. Three configurations were developed: an open-die forging set with flat dies, a double-action radial extrusion set with floating dies and two identical steel springs, and a forward extrusion set. In the latter two configurations, plasticine is placed within the die cavities to enable the corresponding forming operations during instructional sessions.
@@ -31,7 +31,7 @@ While not representative of industrial practice, the container in the forward ex
 
 ### (b) Double-action horizontal tool
 
-`models/double_action_tool/`
+[`models/double_action_tool/`](models/double_action_tool/)
 
 The double-action horizontal set incorporates cam-slide unit components, including wedges, wedge actuators, sliders, and rails, to convert vertical motion into horizontal motion. It also employs horizontal M10 tension bolts and stoppers to ensure tool rigidity during forming operations. 
 
@@ -39,7 +39,7 @@ The double-action horizontal set incorporates cam-slide unit components, includi
 
 ### (c) Multi-stage combination tool
 
-`models/multi_stage_tool/`
+[`models/multi_stage_tool/`](models/multi_stage_tool/)
 
 The multi-stage combination tool features blank holders and ejectors that use steel springs for proper function, as well as two sets of fixed dies for multi-stage processing. In this tool, the first die set performs combined punching and blanking, while the second set bends the part and flares its inner hole. This process is demonstrated during instructional sessions using commercial reinforced aluminium foil with a thickness of approximately 0.15 mm as the workpiece. The operator or demonstrator serves as the transfer system for this tool.
 
@@ -81,4 +81,4 @@ If you use these materials in your teaching or research, please cite the article
 
 ## License
 
-The models and teaching materials are released under the ![Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You may share and adapt them for any purpose, provided appropriate credit is given.
+The models and teaching materials are released under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You may share and adapt them for any purpose, provided appropriate credit is given.
