@@ -2,7 +2,7 @@
 
 This repository provides the 3D-printable tactile tool models and supporting teaching materials that accompany the article:
 
-> Sampaio RFV, Rosado PMS, Pragana JPM, Bragança IMF, Silva CMA, Martins PAF (2026). *A Hybrid Project Based Leaning Approach for MSc Advanced Metal Forming Courses*. Advances in Industrial and Manufacturing Engineering, *Submitted for publication*.
+> Sampaio RFV, Rosado PMS, Pragana JPM, Bragança IMF, Silva CMA, Martins PAF (2026). A Hybrid Project Based Leaning Approach for MSc Advanced Metal Forming Courses. *Advances in Industrial and Manufacturing Engineering*, Submitted for publication.
 
 The models are physical, hands-on representations of industrial forming tools. They were developed to help students understand tool architecture, the kinematics of the forming stages, and how the tool components function together. We share them so that educators can reproduce, adapt and extend the teaching activities described in the article.
 
