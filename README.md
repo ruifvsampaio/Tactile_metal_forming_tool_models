@@ -81,4 +81,4 @@ If you use these materials in your teaching or research, please cite the article
 
 ## License
 
-The models and teaching materials are released under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)] (https://creativecommons.org/licenses/by/4.0/). You may share and adapt them for any purpose, provided appropriate credit is given.
+The models and teaching materials are released under the ![Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You may share and adapt them for any purpose, provided appropriate credit is given.
