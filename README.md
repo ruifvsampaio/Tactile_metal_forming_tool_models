@@ -15,8 +15,6 @@ The models are physical, hands-on representations of industrial forming tools. T
 | `models/` | STEP files of all tool components, grouped by tool set |
 | `images/` | Rendered views and photographs of the printed models |
 
-The complete set of STEP files is also available as a single zip archive under [Releases](../../releases).
-
 ---
 
 ## Tool sets
