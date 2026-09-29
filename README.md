@@ -19,13 +19,15 @@ The complete set of STEP files is also available as a single zip archive under [
 
 ---
 
-## Tool Sets
+## Tool sets
 
 ### (a) Modular single-stage vertical tool
 
 `models/vertical_tool/`
 
-[One to two sentences describing the tool: the forming operation it represents, its main components, and the concept it is used to teach, e.g. the function of the punch, die and stripper plate.]
+The modular single-stage vertical tool demonstrates the fundamental components of metal forming tools and the potential for flexibility in the construction of both structural and passive elements, such as support plates. 
+For demonstration purposes, the tool is assembled using cylindrical magnets measuring 5 mm in diameter and 2 mm in thickness. Three configurations were developed: an open-die forging set with flat dies, a double-action radial extrusion set with floating dies and two identical steel springs, and a forward extrusion set. In the latter two configurations, plasticine is placed within the die cavities to enable the corresponding forming operations during instructional sessions.
+While not representative of industrial practice, the container in the forward extrusion set is divided along the symmetry plane to facilitate removal of the formed plasticine billet, and the container support features a hole at the base to allow observation of the extrusion process.
 
 ![Modular single-stage vertical tool](images/vertical_tool.png)
 
@@ -33,7 +35,7 @@ The complete set of STEP files is also available as a single zip archive under [
 
 `models/double_action_tool/`
 
-[One to two sentences describing the tool: the two independent actions it represents and the concept it is used to teach.]
+The double-action horizontal set incorporates cam-slide unit components, including wedges, wedge actuators, sliders, and rails, to convert vertical motion into horizontal motion. It also employs horizontal M10 tension bolts and stoppers to ensure tool rigidity during forming operations. 
 
 ![Double-action horizontal tool](images/double_action_tool.png)
 
@@ -41,13 +43,13 @@ The complete set of STEP files is also available as a single zip archive under [
 
 `models/multi_stage_tool/`
 
-[One to two sentences describing the tool: the sequence of stages it represents and the concept it is used to teach, e.g. the progression of the part through successive operations.]
+The multi-stage combination tool features blank holders and ejectors that use steel springs for proper function, as well as two sets of fixed dies for multi-stage processing. In this tool, the first die set performs combined punching and blanking, while the second set bends the part and flares its inner hole. This process is demonstrated during instructional sessions using commercial reinforced aluminium foil with a thickness of approximately 0.15 mm as the workpiece. The operator or demonstrator serves as the transfer system for this tool.
 
 ![Multi-stage combination tool](images/multi_stage_tool.png)
 
 ---
 
-## Printing Recommendations
+## Printing recommendations
 
 The models were printed and tested with the following settings:
 
@@ -63,11 +65,11 @@ The models were printed and tested with the following settings:
 
 All dimensions are in millimetres. Moving components are designed with clearances suited to the settings above. If you use another printer or material, you may need to adjust the clearances.
 
-Assembly: M3 bolts and threaded heat set inserts were utilized to assemble the different parts of the tools. Guide pillars are recommended to be lightly sanded for better sliding in the top bosters; the assembly of the pillars into the bottom bolsters is force-fit so it stays fixed. 
+Assembly: M3 socket head bolts and threaded heat set inserts were utilized to assemble the different parts of the tools. Guide pillars are recommended to be lightly sanded for better sliding in the top bosters; the assembly of the pillars into the bottom bolsters is force-fit so it stays fixed. Additionally, the modular single-stage vertical tool makes use of cylindrical magnets measuring 5 mm in diameter and 2 mm in thickness for quick demonstration purposes. The double-action horizontal tool makes use of horizontal M10 threaded rods (to serve as tension bolts) and nuts.
 
 ---
 
-## Teaching Materials
+## Teaching materials
 
 Refer to the article for how these materials were integrated into the course and for the evaluation of the learning outcomes.
 
