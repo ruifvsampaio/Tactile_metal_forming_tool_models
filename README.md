@@ -63,7 +63,7 @@ The models were printed and tested with the following settings:
 
 All dimensions are in millimetres. Moving components are designed with clearances suited to the settings above. If you use another printer or material, you may need to adjust the clearances.
 
-Assembly: M3 socket head bolts and threaded heat set inserts were utilized to assemble the different parts of the tools. Guide pillars are recommended to be lightly sanded for better sliding in the top bosters; the assembly of the pillars into the bottom bolsters is force-fit so it stays fixed. Additionally, the modular single-stage vertical tool makes use of cylindrical magnets measuring 5 mm in diameter and 2 mm in thickness for quick demonstration purposes. The double-action horizontal tool makes use of horizontal M10 threaded rods (to serve as tension bolts) and nuts.
+Assembly: The modular single-stage vertical tool makes use of cylindrical magnets measuring 5 mm in diameter and 2 mm in thickness for quick demonstration purposes. The other tools make use of M3 socket head bolts and threaded heat set inserts were utilized to assemble the different parts of the tools. Guide pillars are recommended to be lightly sanded for better sliding in the top bosters; the assembly of the pillars into the bottom bolsters is force-fit so it stays fixed. The double-action horizontal tool makes use of horizontal M10 threaded rods (to serve as tension bolts) and nuts.
 
 ---
 
@@ -75,14 +75,10 @@ Refer to the article for how these materials were integrated into the course and
 
 ## Citation
 
-If you use these materials in your teaching or research, please cite the article above and this repository:
+If you use these materials in your teaching or research, please cite the article above.
 
-> [Author(s)] ([Year]). *[Repository title]* (Version 1.0) [Data set]. Zenodo. https://doi.org/[Zenodo DOI]
+---
 
 ## License
 
-The models and teaching materials are released under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You may share and adapt them for any purpose, provided appropriate credit is given.
-
-## Contact
-
-Rui F.V. Sampaio, IDMEC, Instituto Superior Técnico, Universidade de Lisboa, Portugal, rui.f.sampaio@tecnico.ulisboa.pt
+The models and teaching materials are released under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)] (https://creativecommons.org/licenses/by/4.0/). You may share and adapt them for any purpose, provided appropriate credit is given.
